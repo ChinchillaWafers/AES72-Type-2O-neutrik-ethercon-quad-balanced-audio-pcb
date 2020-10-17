@@ -1,7 +1,7 @@
 # PCB for soldering wires to Neutrik NE8FDV
 
 <p align="center">
-  <img width="512" height=602" src="https://raw.githubusercontent.com/mjcourte/neutrik-ethercon-quad-balanced-audio-pcb/master/NeutrikEthercon.png">
+  <img width="512" height=602" src="https://raw.githubusercontent.com/mjcourte/neutrik-ethercon-quad-balanced-audio-pcb/main/NeutrikEthercon.png">
 </p>
 
 - **This is an unoffical PCB, use at your own risk.**
