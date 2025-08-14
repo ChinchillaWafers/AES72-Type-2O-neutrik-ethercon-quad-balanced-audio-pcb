@@ -1,1 +1,14 @@
+A nice chart for the AES72 Type 2O pinout can be found here:
 https://i0.wp.com/quadtwistedpair.com/wp-content/uploads/2024/11/AES-72-Type-2O_Horizontal_Pinout_Chart.jpg?ssl=1
+
+V2 Pinout
+| T568B Wire Color | RJ45 Pin # | Channel # | XLR Pin #    |
+| ---------------- | ---------- | --------- | ------------ |
+| White/Green      | 1          | Ch 2 (+)  | XLR 2 (Hot)  |
+| Green            | 2          | Ch 2 (–)  | XLR 3 (Cold) |
+| White/Orange     | 3          | Ch 3 (+)  | XLR 2 (Hot)  |
+| Blue             | 4          | Ch 1 (–)  | XLR 3 (Cold) |
+| White/Blue       | 5          | Ch 1 (+)  | XLR 2 (Hot)  |
+| Orange           | 6          | Ch 3 (–)  | XLR 3 (Cold) |
+| White/Brown      | 7          | Ch 4 (+)  | XLR 2 (Hot)  |
+| Brown            | 8          | Ch 4 (–)  | XLR 3 (Cold) |
